@@ -5,8 +5,9 @@ Overview This project is a simple, responsive landing page for Cycle Motor, a fi
 Features Responsive design Navigation bar Sections for features, testimonials, and contact information Purchase button
 
 Technologies Used HTML5 CSS3
-# Landing-page File Structure . ├── index.html # Main HTML file ├── style.css # CSS file for styling └── README.md 
-# This README file Getting Started Open index.html in any web browser to view the landing page.
+<b>Landing-page File Structure</b> . 
+├── index.html # Main HTML file ├── style.css # CSS file for styling └── README.md 
+This README file Getting Started Open index.html in any web browser to view the landing page.
 
 Files index.html The main HTML file includes:
 
