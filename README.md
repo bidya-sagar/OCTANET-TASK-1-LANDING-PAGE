@@ -12,13 +12,14 @@ This README file Getting Started Open index.html in any web browser to view the 
 
 Files index.html The main HTML file includes:
 
-Navigation bar with links Home section with a headline and image Features section Testimonials section Footer. <br>
+Navigation bar with links Home section with a headline and image Features section Testimonials section Footer. 
+<br>
+
 style.css The CSS file includes styles for:
 
 Layout and typography Background images and colors Responsive design with media queries.
 
 Sections Navigation
-
 <br>Cycle Motor
 <br>Home
 <br>Features
