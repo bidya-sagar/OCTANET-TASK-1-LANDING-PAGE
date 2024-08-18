@@ -6,21 +6,22 @@ Features Responsive design Navigation bar Sections for features, testimonials, a
 
 Technologies Used HTML5 CSS3
 <br>
-<b>Landing-page File Structure</b> . 
-├── index.html # Main HTML file ├── style.css # CSS file for styling └── README.md 
+<b>Landing-page File Structure.</b><br>
+index.html # Main HTML file , style.css # CSS file for styling.
 This README file Getting Started Open index.html in any web browser to view the landing page.
 
 Files index.html The main HTML file includes:
 
-Navigation bar with links Home section with a headline and image Features section Testimonials section Footer landingpage.css The CSS file includes styles for:
+Navigation bar with links Home section with a headline and image Features section Testimonials section Footer 
+style.css The CSS file includes styles for:
 
 Layout and typography Background images and colors Responsive design with media queries
 
 Sections Navigation
 
-Cycle Motor
-Home
-Features
-Pages
-Contacts
-Purchase
+<br>Cycle Motor
+<br>Home
+<br>Features
+<br>Pages
+<br>Contacts
+<br>Purchase
