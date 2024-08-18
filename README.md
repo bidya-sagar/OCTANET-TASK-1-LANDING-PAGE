@@ -19,7 +19,7 @@ style.css The CSS file includes styles for:
 
 Layout and typography Background images and colors Responsive design with media queries.
 
-Sections Navigation
+Sections Navigation are :
 <br>Cycle Motor
 <br>Home
 <br>Features
